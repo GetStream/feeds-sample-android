@@ -1,0 +1,2 @@
+rootProject.name='feeds-android-sample'
+include ':app'
